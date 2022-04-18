@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **android studio, python**
 
-- 📫 How to reach me **shankbugadi@gmail.com**
+- 📫 How to reach me **shank.bugadi@gmail.com**
 
 - 📄 Know about my experiences [Newbie in Coding...but good at picking up new skills...](Newbie in Coding...but good at picking up new skills...)
 
