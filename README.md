@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankbugadi160197&label=Profile%20views&color=0e75b6&style=flat" alt="shashankbugadi160197" /> </p>
 
-- 🔭 I’m currently working on **Android Development**
+- 🔭 I’m currently working on **DataBase System usig SQL / Python**
 
 - 💬 Ask me about **android studio, python**
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [Newbie in Coding...but good at picking up new skills...](Newbie in Coding...but good at picking up new skills...)
 
-- ⚡ Fun fact **I think I am real REVENANENT....**
+- ⚡ Fun fact **I think I have some REVENANENT skills....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
