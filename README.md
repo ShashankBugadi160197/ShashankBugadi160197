@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **DataBase System usig SQL / Python**
 
-- 💬 Ask me about **android studio, python**
+- 💬 Ask me about **Android Studio, Python, SQL**
 
 - 📫 How to reach me **shank.bugadi@gmail.com**
 
