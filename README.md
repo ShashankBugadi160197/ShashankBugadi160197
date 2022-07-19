@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankbugadi160197&label=Profile%20views&color=0e75b6&style=flat" alt="shashankbugadi160197" /> </p>
 
-- 🔭 I’m currently working on **DataBase System usig SQL / Python**
+- 🔭 I’m currently working on **DataBase System using SQL / Python**
 
 - 💬 Ask me about **Android Studio, Python, SQL**
 
