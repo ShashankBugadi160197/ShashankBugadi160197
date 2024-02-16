@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **ETL pipline project**
 
-- 💬 Ask me about **Android Studio, Python, SQL**
+- 💬 Ask me about **Python, SQL, Java, Cloud Compution**
 
 - 📫 How to reach me **shank.bugadi@gmail.com**
 
-- 📄 Know about my experiences [Newbie in Coding...but good at picking up new skills...]
+- 📄 Visit me at: https://snazzy-haupia-8af036.netlify.app 
 
 - ⚡ Fun fact **I think I have some REVENANENT skills....**
 
