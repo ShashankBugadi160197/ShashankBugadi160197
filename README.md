@@ -1,4 +1,4 @@
-![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://www.canva.com/design/DAGNWJXrqM8/Gqp3-Y4EMEvydm6GYDt2GA/edit?utm_content=DAGNWJXrqM8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://www.canva.com/design/DAGNWJXrqM8/Gqp3-Y4EMEvydm6GYDt2GA/edit?utm_content=DAGNWJXrqM8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <h1 align="center">Hi 👋, I'm 𝕊𝕙𝕒𝕤𝕙𝕒𝕟𝕜 𝔹𝕦𝕘𝕒𝕕𝕚</h1>
 <h3 align="center">I'm a student from **N.K.Orchid College of Engineering, Solapur**.</h3>
 <img align="right" alt="Coding width="100" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif">
