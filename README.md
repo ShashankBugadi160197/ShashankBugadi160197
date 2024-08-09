@@ -1,4 +1,4 @@
-![logo](https://github.com/ShashankBugadi160197/gpj/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.gif)
+![logo](https://github.com/ShashankBugadi160197/gpj/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).gif)
 
 
 <h1 align="center">Hey "🤝" I'm Shashank Bugadi</h1>
